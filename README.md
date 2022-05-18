@@ -10,7 +10,7 @@ The purpose of this analysis was to use SQL Alchemy to query the data for the te
 - The average temperature in June was only slightly higher than the average temperature in Decemeber.  This is good for the shop since it shows that the weather is somewhat consistent throughout th year.
 - The minimum temperature in December was colder than the minimum temperature in June by 8 degrees.  The maximum temperature in June was higher than the maximum temperature in December by only 2 degrees.
 
-<img >
+<img src="https://github.com/bwheeler98/Surfs_Up/blob/c28e455c5aef1a4f3dd78d29c03d61cdbe09719d/Surfs_Up/Images/June_temps.png" width="300" height="250"> | <img src="https://github.com/bwheeler98/Surfs_Up/blob/c28e455c5aef1a4f3dd78d29c03d61cdbe09719d/Surfs_Up/Images/Dec_temps.png" width="300" height="250">
 
 ## Summary
 
